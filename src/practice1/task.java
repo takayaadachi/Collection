@@ -3,6 +3,7 @@ package practice1;
 import java.time.LocalDate;
 
 class Task {
+	
 	private LocalDate date;
 	private String content;
 

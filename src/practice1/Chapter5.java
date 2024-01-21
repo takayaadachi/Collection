@@ -9,6 +9,7 @@ import java.util.List;
 public class Chapter5 {
 
 	public static void main(String[] args) {
+		
 		List<Task> tasks = new ArrayList<>();
 		tasks.add(new Task(LocalDate.of(2021, 10, 21), "牛乳を買う"));
 		tasks.add(new Task(LocalDate.of(2021, 9, 15), "○○社面談"));
